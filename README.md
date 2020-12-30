@@ -21,11 +21,7 @@ unexpected ways or breaches any limits
 9. The file is accessed by multi-threading
 
 
-Go through the accessing.py file and examples.pdf file that are attached here with in order to understand clearly how 
+Go through the access.py file and output_screenshot.pdf file that are attached here with in order to understand clearly how 
 the code works and how to perform operations in this. 
 
-NAME:ABEIA MK
-UNIVERSITY REGISTER NUMBER:312317205001
-DEPARTMENT:INFORMATION TECHNOLOGY
-COLLEGE:ST.JOSEPH'S COLLEGE OF ENGINEERING
-YOP:2021
+
